@@ -14,4 +14,6 @@ Instructions:
 9. Now install the app and use the @ symbol to reference the github app in copilot chat
 
 
-https://neon.tech/blog/how-to-build-github-copilot-extensions
+Step-by-step guide: https://neon.tech/blog/how-to-build-github-copilot-extensions
+
+App extension url: https://github.com/apps/extensiontesting123
