@@ -14,4 +14,4 @@ Instructions:
 9. Now install the app and use the @ symbol to reference the github app in copilot chat
 
 
-Run ngrok http 8000 and then retrieve forwarding url and place in URL field of Agent definition
+https://neon.tech/blog/how-to-build-github-copilot-extensions
